@@ -10,14 +10,9 @@ A TShock plugin to delete or wipe SSC characters.
 SSCReset v2.1.0 (Latest)
 
 ## Instructions
-### Commands
-`/back`
-
-### Permissions
-`back.use`
-`back.auto`
-
-| Permission | Command | Description |
-|---|---|---|
-| Cell A1 | Cell B1 | Cell C1 |
-| Cell A2 | Cell B2 | Cell C2 |
+| Command | Permission |
+|---|---|
+| /sscdelete <all | player> | sscreset.delete |
+| /sscdelete list | sscreset.delete |
+| /sscwipe <all | player> | sscreset.wipe |
+| /sscwipe list | sscreset.wipe |
