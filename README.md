@@ -12,7 +12,7 @@ SSCReset v2.1.0 (Latest)
 ## Instructions
 | Command | Permission |
 |---|---|
-| /sscdelete <all | player> | sscreset.delete |
+| /sscdelete <all | player> || sscreset.delete |
 | /sscdelete list | sscreset.delete |
-| /sscwipe <all | player> | sscreset.wipe |
+| /sscwipe <all | player> || sscreset.wipe |
 | /sscwipe list | sscreset.wipe |
